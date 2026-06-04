@@ -1,8 +1,11 @@
 <h1 align="center">Jaewoo Song</h1>
 
+<p align="center">Korean-language instructor → security learner.</p>
+
 <p align="center">
-  <em>Korean-language instructor → security learner.<br/>
-  Once parsed sentences — now parsing packets.</em>
+  <a href="mailto:shelter021@icloud.com">
+    <img src="https://img.shields.io/badge/shelter021@icloud.com-3693F3?style=flat-square&logo=icloud&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -18,6 +21,20 @@ prepping for **KITRI Best of the Best** and hands-on offensive / defensive work.
 - 🔐 **DNS security** — spoofing & DNSSEC simulation in Python → [`networkDNS`](https://github.com/stacknoah/networkDNS)
 - 🧠 **Applied ML** — Kaggle competitions, prediction & optimization → [`Pred-Opt-Fertilizers`](https://github.com/stacknoah/Pred-Opt-Fertilizers) · [`SafeDriverPred`](https://github.com/stacknoah/SafeDriverPred)
 - ⚙️ **Compilers** — lexing / parsing / AST with flex & bison
+
+### Education
+
+- **Hongik University** — B.S. in Computer Engineering · Class of 2021
+
+### Experience
+
+- **Whitehat School** 4th cohort — cybersecurity training
+- **IHHH** · Hongik Security Club — Web Hacking · 2026
+- **LikeLion** (멋쟁이사자처럼) 10th · Hongik — Web Back-End · 2022
+
+### Awards
+
+- **1st Place** — Startup Idea Competition, Hongik University College of Business · 2022
 
 ### Toolbox
 
