@@ -19,7 +19,6 @@ Now into web hacking and security
 
 - **DNS security** — spoofing & DNSSEC simulation in Python → [`networkDNS`](https://github.com/stacknoah/networkDNS)
 - **Applied ML** — Kaggle competitions, prediction & optimization → [`Pred-Opt-Fertilizers`](https://github.com/stacknoah/Pred-Opt-Fertilizers) · [`SafeDriverPred`](https://github.com/stacknoah/SafeDriverPred)
-- **Compilers** — lexing / parsing / AST with flex & bison
 
 ### Experience
 
