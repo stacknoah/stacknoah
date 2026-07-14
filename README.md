@@ -1,6 +1,6 @@
 <h1 align="center">Jaewoo Song</h1>
 
-<p align="center">Korean-language instructor → security learner.</p>
+<p align="center">security learner.</p>
 
 <p align="center">
   <a href="mailto:shelter021@icloud.com">
@@ -12,8 +12,8 @@
 
 ### whoami
 
-Computer engineering student at Hongik University, with a background teaching
-Korean. Now into web hacking and security.
+Computer engineering student at Hongik University
+Now into web hacking and security
 
 ### Currently
 
