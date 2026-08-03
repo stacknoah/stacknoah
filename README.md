@@ -4,7 +4,7 @@ Security learner. Computer engineering @ Hongik University.
 
 📫 shelter021@icloud.com
 
-### Now
+### Project
 - OT security assessment — consulting procedure where active scanning is itself the incident · [ot-security](https://github.com/stacknoah/ot-security)
 - ISMS-P 1.2.1 asset identification — AWS collector, grade proposal, asset ledger output · [ismsp-asset](https://github.com/stacknoah/ismsp-asset)
 - PurpleBPF — self-evolving detection coverage loop for container runtime; eBPF/Tetragon rules · [purpleBPF/purplebpf](https://github.com/purpleBPF/purplebpf)
