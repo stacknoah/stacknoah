@@ -1,6 +1,6 @@
 # Jaewoo Song
 
-Security learner — web hacking. Computer engineering @ Hongik University.
+Security learner. Computer engineering @ Hongik University.
 
 📫 shelter021@icloud.com
 
