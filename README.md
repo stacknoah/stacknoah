@@ -6,7 +6,6 @@ Security learner. Computer engineering @ Hongik University.
 
 ### Project
 - OT security assessment — consulting procedure where active scanning is itself the incident · [ot-security](https://github.com/stacknoah/ot-security)
-- ISMS-P 1.2.1 asset identification — AWS collector, grade proposal, asset ledger output · [ismsp-asset](https://github.com/stacknoah/ismsp-asset)
 - PurpleBPF — self-evolving detection coverage loop for container runtime; eBPF/Tetragon rules · [purpleBPF/purplebpf](https://github.com/purpleBPF/purplebpf)
 - Financial network separation easing — what stands in for the air gap once it's gone · [fin-zerotrust](https://github.com/stacknoah/fin-zerotrust)
 
