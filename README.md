@@ -2,8 +2,6 @@
 
 보안 컨설팅과 컴플라이언스를 공부합니다.
 
-홍익대학교 컴퓨터공학과 · 커넥셔너리(Connectionary) 인턴
-
 [stacknoah.com](https://stacknoah.com) · [shelter021@icloud.com](mailto:shelter021@icloud.com)
 
 ## Projects
@@ -25,11 +23,6 @@
 - KISA 소프트웨어 개발보안 경진대회 대상(교육부장관상) · 2026
 - 홍익대학교 CTF 3위 · 2026
 - 홍익대 경영대학 창업 아이디어 경진대회 1위 · 2022
-
-## Writing
-
-- 보안 블로그 [stacknoah.com](https://stacknoah.com)
-- 생산설비 제조사의 사이버보안 의무를 다룬 논문, 한국산업안보학회 논문경진대회 투고(공저) · 2026
 
 ## Experience
 
